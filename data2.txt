@@ -1,0 +1,15 @@
+Singes;Adrien;M;40.0;35.0;0.0;true;Images;7.1,7.3,6.2,5.3,4.1
+Singes;Penelope;F;34.0;33.0;0.0;false;Images;7,6.5,5.3,4.2,4.3
+Singes;Remi;M;50.0;50.0;0.0;false;Images;5.1,5.0,4.5,4.5,4
+Singes;Rodolphe;M;42.0;37.0;0.0;true;Images;7.0,5.0,6.0,5.5,6.4
+Singes;Amelie;F;39.0;39.0;0.0;false;Images;7.0,5.5,4.2,3.1,3.2
+Souris G2;Bouboulover;M;0.04;0.04;0.0;false;Caches;6,5,5,3,3
+Souris G2;Bob;M;0.03;0.03;0.0;false;Caches;7,5,5,1,2
+Souris G2;Claudette;F;0.02;0.02;0.0;false;Caches;0,3,2,2,2
+Souris G2;Julien;M;0.03;0.03;0.0;false;Caches;4,2,4,5,1
+Souris G2;Test N°19874.1;F;0.04;0.02;0.0;true;Caches;5,0,4,8,9
+Souris G1;Polo Dudu;F;0.03;0.01;0.0;true;Labyrinthe;123,101,75,60,61
+Souris G1;Beneth;F;0.02;0.02;0.0;false;Labyrinthe;200,210,150,148,145
+Souris G1;Pierre-W;M;0.04;0.04;0.0;false;Labyrinthe;300,350,380,370,450
+Souris G1;Pikachu;M;0.04;0.04;0.0;false;Labyrinthe;215,200,186,192,167
+Souris G1;Leo;M;0.03;0.03;0.0;false;Labyrinthe;190,180,170,179,160

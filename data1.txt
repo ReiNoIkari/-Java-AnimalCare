@@ -1,0 +1,15 @@
+Singes;Adrien;M;40.0;35.0;0.0;true;Images;NA
+Singes;Penelope;F;34.0;33.0;0.0;false;Images;NA
+Singes;Remi;M;50.0;50.0;0.0;false;Images;NA
+Singes;Rodolphe;M;42.0;37.0;0.0;true;Images;NA
+Singes;Amelie;F;39.0;39.0;0.0;false;Images;NA
+Souris G2;Bouboulover;M;0.04;0.04;0.0;false;Caches;NA
+Souris G2;Bob;M;0.03;0.03;0.0;false;Caches;NA
+Souris G2;Claudette;F;0.02;0.02;0.0;false;Caches;NA
+Souris G2;Julien;M;0.03;0.03;0.0;false;Caches;NA
+Souris G2;Test N°19874.1;F;0.04;0.02;0.0;true;Caches;NA
+Souris G1;Polo Dudu;F;0.03;0.01;0.0;true;Labyrinthe;NA
+Souris G1;Beneth;F;0.02;0.02;0.0;false;Labyrinthe;NA
+Souris G1;Pierre-W;M;0.04;0.04;0.0;false;Labyrinthe;NA
+Souris G1;Pikachu;M;0.04;0.04;0.0;false;Labyrinthe;NA
+Souris G1;Leo;M;0.03;0.03;0.0;false;Labyrinthe;NA
